@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/1yc4n0rn0t/midnight-ops/blob/main/lyscan.png" alt="Image" style="height: 850px; vertical-align: middle; margin-left: 10px;" />
+</p>
+
+
+
 ### 🚀 Features
 
 - **Stealth Mode**: Covert subdomain scanning that operates undetected ⚡
