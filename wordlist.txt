@@ -1,0 +1,11 @@
+# This is a sample wordlist for testing only 
+
+www
+mail
+ftp
+test
+blog
+dev
+api
+admin
+unsubscribe
